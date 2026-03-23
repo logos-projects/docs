@@ -7,4 +7,4 @@ A high-performance, in-memory Central Limit Order Book (CLOB) matching engine wr
 If you need a free trial， please contact me！
 
 ## Contact
-(jonathan)[starlinklab@hotmail.com]
+[jonathan](starlinklab@hotmail.com)
