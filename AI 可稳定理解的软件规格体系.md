@@ -473,3 +473,36 @@ AI：
 生成状态机
 生成样板代码
 ```
+
+## 6 附录
+
+- 参考项目的文档驱动AI AGENT的最终文档列表  
+📁 . (根目录)  
+├── 📄 ai-agent-guide-claude-code.md  
+├── 📄 ai-agent-guide-codex.md  
+├── 📄 api-contract.md  
+├── 📄 architecture.md  
+├── 📄 Claude Code Bootstrap Prompt.md  
+├── 📄 Claude Code Bootstrap Prompt-Phrase1.md  
+├── 📄 Claude Code Bootstrap Prompt-Phrase2.md  
+├── 📄 Claude Code Bootstrap Prompt-Phrase3.md  
+├── 📄 Claude Code Bootstrap Prompt-Phrase4.md  
+├── 📄 CodeX Bootstrap Prompt.md  
+├── 📄 database-schema.md  
+├── 📄 domain-rules.md  
+├── 📄 engineering-guide.md  
+├── 📄 event-model.md  
+├── 📄 event-schema-registry.md  
+├── 📄 event-state-mapping.md  
+├── 📄 failure-taxonomy.md  
+├── 📄 field-lineage.md  
+├── 📄 Multi Agents的系统级 Prompt.md  
+├── 📄 prd.md  
+├── 📄 replay-spec.md  
+├── 📄 RL式 AI工程系统 (带评分函数 + 自动收敛) .md  
+├── 📄 Self-Converging AI Engineering System.md  
+├── 📄 ui-spec.md  
+├── 📄 ux-flow.md  
+├── 📄 vision.md  
+├── 📄 自动修复型 Bootstrap Prompt(Claude Code).md  
+└── 📄 自动修复型 Bootstrap Prompt(CodeX).md  
